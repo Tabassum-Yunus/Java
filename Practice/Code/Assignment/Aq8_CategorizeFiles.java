@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Aq8_CategorizeFiles {
     public static void main(String[] args) {
-        File f = new File("MyDirectory Categorize files");
+        File f = new File("MyDirectory CategorizeFiles");
         f.mkdir();
         try{
             File f1 = new File(f,"file1.txt");
