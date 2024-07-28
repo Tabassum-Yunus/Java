@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class E_Occ_char_word_Aq4 {
+public class E_Occ_char_word {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter String: ");
